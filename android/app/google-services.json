@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004338803958",
+    "project_id": "to-do-app-e29aa",
+    "storage_bucket": "to-do-app-e29aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004338803958:android:4613c8b322d72452cca8d7",
+        "android_client_info": {
+          "package_name": "com.mostafa.todoapp.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004338803958-8tu1nher8mdd74t9hndk3eqtvssccm84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fq9jiLOGVhhr_ZBi79KvVlXaTYxtAW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004338803958-8tu1nher8mdd74t9hndk3eqtvssccm84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
